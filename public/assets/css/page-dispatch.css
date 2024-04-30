@@ -1,0 +1,9 @@
+table.table {
+    border-collapse: collapse;
+    font-size: 13px;
+}
+
+table.table td {
+    padding: 0.3px;
+    border: 0;
+}
